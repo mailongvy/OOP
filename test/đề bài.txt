@@ -1,0 +1,23 @@
+Ở một xóm trọ Ba Con Sâu nọ, có 3 anh chàng từ tỉnh lẻ lên thành phố lập nghiệp. Với một quyết tâm và ý chí
+hừng hực, 3 anh đã may mắn được nhận làm việc ở các công ty tầm cỡ quốc gia với các chức danh lần lượt như sau:
+NHÂN VIÊN SỬA ỐNG NƯỚC
+NHÂN VIÊN GIAO HÀNG
+NHÂN VIÊN XE ÔM 4.0
+1. Hãy phân tích và mô tả các thông tin cần thiết để quản lý 3 nhân viên trên
+2. Tính tiền lương hàng tháng của 3 nhân viên  trên
+Biết:
+NHÂN VIÊN SỬA ỐNG NƯỚC: số giờ sửa x 50000
+NHÂN VIÊN GIAO HÀNG: số hàng giao x 33.500
+NHÂN VIÊN XE ÔM 4.0: số km x 10000
+Sau quá trình khảo sát thị trường và thấy được tiềm năng của các chị em nội trợ về nhu cầu liên hệ các anh
+thợ SỬA ỐNG NƯỚC ngày càng tăng, đồng thời dịch vụ GIAO HÀNG ngày càng cao, song song đó
+cuộc cách mạng công nghệ 4.0 ngày càng được ứng dụng rộng rãi, và nền kinh tế chia sẻ cũng dần được hình thành
+dẫn đến việc các anh XE ÔM 4.0 cũng ăn nên làm ra. 
+Và điều gì đến cũng đã đến - trời không phụ lòng người, với tất cả niềm đam mê và yêu nghề của mình - 3 anh chàng
+tỉnh lẻ ngày nào giờ đã quyết định ngồi lại với nhau để cùng chơi một cuộc chơi lớn hơn, mang tầm cỡ xuyên quốc gia
+và cạnh tranh trực tiếp với các ông lớn trên thế giới như Lazada, Alibaba, Amazon, Grab, Go-Viet, JAV... 
+Công ty Ba Con Sói quyết định thuê thêm nhiều nhân viên nhằm đáp ứng nhu cầu của khách hàng và cụ thể 
+là không muốn bỏ qua miếng bánh béo bỡ này.
+3. Hãy giúp công ty Ba Con Sói viết một ứng dụng quản lý các nhân viên đã đề cập.
+4. Tính tổng tiền lương hàng tháng của các nhân viên
+5. Thống kê các nhân viên giảm dần theo lương
